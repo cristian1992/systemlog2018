@@ -12,7 +12,7 @@
     <plugin name="cordova-plugin-camera" spec="1" />
    <plugin name="cordova-plugin-file-transfer" spec="~1.6.1" source="npm"/>
    <plugin name="cordova-plugin-whitelist" source="npm" />
-   <plugin name="phonegap-plugin-barcodescanner" source="npm"/>
+   <plugin name="phonegap-plugin-barcodescanner-master" source="npm"/>
   <access origin="*"/>
   <access uri="*" subdomains="true" />
   <preference name="webviewbounce" value="false"/>
